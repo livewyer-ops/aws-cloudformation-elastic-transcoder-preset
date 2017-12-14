@@ -12,7 +12,7 @@
     },
     "Container": {
       "type": "string",
-      "enum": ["flac", "flv", "fmp4", "gif", "mp3", "mp4", "mpg", "mxf", "oga", "ogg", "ts", "webm"]
+      "enum": ["wav","flac", "flv", "fmp4", "gif", "mp3", "mp4", "mpg", "mxf", "oga", "ogg", "ts", "webm"]
     },
     "Description": {
       "type": "string"
